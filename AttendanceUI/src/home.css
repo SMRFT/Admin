@@ -1,0 +1,9 @@
+
+  .main {
+    text-align: justify;
+    justify-content: top;
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    background-color: rgb(221, 240, 237);
+  }

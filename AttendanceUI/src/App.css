@@ -1,0 +1,36 @@
+.Appnew {
+  background-color: white(239, 16, 16);
+  border: none;
+  color: white(244, 10, 10);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-top: 300px;
+  margin-left: 250px;
+}
+.button1 {
+  background-color: #909c69;
+  font-size: 50px;
+  border-radius: 12px;
+  padding: 30px;
+  float: left;
+  margin-right: 100px;
+}
+.button2 {
+  background-color:#909c69;
+  font-size: 50px;
+  border-radius: 12px;
+  padding: 30px;
+  float: left;
+  margin-right: 100px;
+}
+.button3 {
+  background-color: #909c69;
+  font-size: 50px;
+  border-radius: 12px;
+  padding: 30px;
+  float: left;
+}
